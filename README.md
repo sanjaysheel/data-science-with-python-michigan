@@ -76,3 +76,22 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html
 https://runestone.academy/runestone/books/published/webfundamentals/index.html
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://runestone.academy/runestone/books/published/pythonds/index.html
+
+
