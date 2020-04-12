@@ -1,0 +1,46 @@
+1)    You are given a dataset on movie reviews with a 1,000 labeled reviews. The labels are one of five movie genres: Action, Comedy, Drama, Horror, and Sci-Fi. The dataset has roughly 200 movie reviews for each movie genre.
+
+	Your first task is to learn a supervised classifier to identify just the reviews for Comedy movies from the dataset. Such a task is:
+ans) binary
+
+2.Question The dataset available for the first task is:
+
+ans) skewed
+
+3 Question 	Suppose you decide to train a support vector machine classifier for this first task. The methodology you will employ will be a:
+
+ans)
+
+4.Question  You are given a dataset on movie reviews with a 1,000 labeled reviews. The labels are one of five movie genres: Action, Comedy, Drama, Horror, and Sci-Fi. The dataset has roughly 200 movie reviews for each movie genre.
+
+Your second task is to learn to identify all five movie genres. Such a task is:
+
+
+
+ans) multi class 
+
+5.Question 5
+
+The dataset available for the second task is:
+
+
+
+ans)  balanced
+
+
+
+6.Question 6
+
+Suppose you decide to train a support vector machine classifier for the second task. The methodology you will employ will be a:
+
+
+and)  A or B
+
+
+7.Question 7
+
+How many binary classifiers will you need to train for the second task using the one-vs-rest classification approach?
+
+
+
+ans)  5
